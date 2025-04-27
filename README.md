@@ -2,7 +2,7 @@
 
 This repository contains the Power BI dashboard for TATA Motors. It provides valuable insights into various aspects of TATA Motors' operations and performance, presented visually in an easy-to-understand format. The dashboard is created using Power BI and is supported by relevant data files and documentation.
 
-![TATA Motors Dashboard](TATA_Motors.png)
+![TATA Motors Dashboard](Tata_Motors.png)
 
 
 
