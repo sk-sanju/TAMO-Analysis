@@ -2,6 +2,10 @@
 
 This repository contains the Power BI dashboard for TATA Motors. It provides valuable insights into various aspects of TATA Motors' operations and performance, presented visually in an easy-to-understand format. The dashboard is created using Power BI and is supported by relevant data files and documentation.
 
+![TATA Motors Dashboard](TATA_Motors.png)
+
+
+
 ## Files in this Repository
 
 - **TATA Motors.pbix**: The Power BI file containing the interactive dashboard.
@@ -52,4 +56,4 @@ If you want to work with this dashboard locally, follow these steps:
 1. **Download Power BI Desktop**: You can get it from [Power BI's official site](https://powerbi.microsoft.com/desktop/).
 2. **Clone this Repository**: You can clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/your-username/TATA-Motors-Dashboard.git
+   git clone https://github.com/sk-sanju/TAMO-Analysis.git
